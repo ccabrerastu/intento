@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    body{
+        background-color: cornflowerblue;
+    }
+    main{
+        width:96% ;
+        height: 870px;
+        margin: 0 auto;
+        margin-top:0.5em;
+        padding: 0.5em;
+        border-width: 1px;
+        border-style: solid;
+        background-color: #ddd;
+        border-color: darkblue;
+    }
+    header{
+        background-color: darkblue;
+        width: 99%;
+        height: 80px;
+        border: 1px solid darkblue;
+        padding: 0.35em;
+        color: burlywood;
+    }
+    nav{
+        width: 99%;
+        height: 46px;
+        padding: 0.35em;
+        border-width: 1px;
+        border-style: solid;
+        border-color: darkblue;
+        background-color: black;
+        color: yellowgreen;
+        font: 1em sans-serif;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+    section{
+        width:76.45%;
+        height: 600px;
+        padding: 0.5em;
+        border-width: 1px;
+        border-style: solid;
+        border-color: darkblue;
+        float: left;
+        background-color: #ddd;
+        color: #444;
+        font: 1em sans-serif;
+        text-align: justify;
+    }
+    aside{
+        width: 20%;
+        height: 600px;
+        padding: 0.5em;
+        float: left;
+        border-width: 1px;
+        border-style: solid;
+        border-color: darkblue;
+        float: left;
+        color: #444;
+        font: 1em sans-serif;
+        text-align: justify;
+        background-color: #ddd;
+        margin-left: 0.5em;
+    }
+    footer{
+        clear:both;
+        float: left;
+        width: 99%;
+        height: 65px;
+        padding: 0.3em;
+        border-width: 1px;
+        border-style: solid;
+        border-color: darkblue;
+        background-color: #ccc;
+        color: #444;
+        font: 1em sans-serif;
+        text-align: justify;
+        margin-top: 0.5em;
+
+    }
+    #contenido{
+        text-align: justify;
+        padding: 0.5em;
+    }
+    h1{
+        font-size: 2em;
+        color: yellowgreen;
+    }
+    h2{
+        font-size: 1em;
+        color: darkblue;
+    }
+    a{
+        text-decoration: yellowgreen;
+        color: yellowgreen;
+    }
+    div{
+        text-align: center;
+    }

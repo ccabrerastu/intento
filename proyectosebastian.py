@@ -1,0 +1,1 @@
+dni = int(input("Ingrse su dni"))

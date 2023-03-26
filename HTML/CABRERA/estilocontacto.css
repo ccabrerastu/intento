@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    body{
+        background-color: cornflowerblue;
+        height: 850px;
+    }
+    main{
+        width:96% ;
+        height: 820px;
+        margin: 0 auto;
+        margin-top:0.5em;
+        padding: 0.5em;
+        border-width: 1px;
+        border-style: solid;
+        background-color: #ddd;
+        border-color: darkblue;
+    }
+    header{
+        background-color: rgb(18, 129, 239);
+        width: 99%;
+        height: 80px;
+        border: 1px solid rgb(18, 129, 239);
+        padding: 0.35em;
+        color: darkcyan;
+        
+    }
+    nav{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: bold;
+        height: 20px;
+        border-width: 0px;
+        border-style: solid;
+        border-color: #039;
+        background-color: #0066ff;
+        color: #fff;
+        margin-top: 0.0em;
+        margin-bottom: 0.5em;
+        text-align: left;
+    }
+    nav ul{
+        margin: 0;
+        padding: 0;
+    }
+    nav ul li{
+        display: inline;
+    }
+    nav ul li a{
+        display:block;
+        float: left;
+        text-decoration: none;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 2s5px;
+        padding-right: 25px;
+        color: #fff;
+        border-right: 1px solid #999; 
+    }
+    nav ul li a:hover{
+        background-color: #008a00;
+        color: yellowgreen
+    }
+    section{
+        width:98.58%;
+        height: 680px;
+        padding: 0.5em;
+        border-width: 1px;
+        border-style: solid;
+        border-color: darkblue;
+        float: left;
+        background-color: #ddd;
+
+        font: 1em sans-serif;
+        text-align: center;
+        
+    }
+
+
+    #contenido{
+        text-align: justify;
+        padding: 1em;
+    }
+    h1{
+        font-size: 1em;
+        color: darkblue;
+    }
+    h2{
+        font-size: 1em;
+        color: darkblue;
+        
+    }
+    a{
+        text-decoration: white;
+        color: white;
+    }
+    div{
+        text-align: center;
+
+    }
+    a1 {
+        color: red;
+        text-decoration: antiquewhite
+    }
